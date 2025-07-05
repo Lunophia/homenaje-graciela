@@ -1,49 +1,79 @@
+
 body {
-    font-family: 'Segoe UI', Arial, sans-serif;
-    background-color: #fff8f2;
-    color: #333;
-    margin: 0;
-    padding: 0;
+  font-family: 'Georgia', serif;
+  background-color: #f9f5ec;
+  color: #333;
+  margin: 0;
+  padding: 0;
 }
-
 header {
-    background-color: #f6b6aa;
-    color: white;
-    text-align: center;
-    padding: 40px 20px;
+  text-align: center;
+  padding: 2rem 1rem 1rem;
+  background: linear-gradient(to bottom, #e8dcf2, #f9f5ec);
 }
-
 h1 {
-    margin: 0;
-    font-size: 36px;
+  color: #a66cb0;
+  font-size: 2.5em;
+  margin-bottom: 0.3em;
 }
-
-section {
-    padding: 20px;
-    max-width: 900px;
-    margin: auto;
-    line-height: 1.7;
-    font-size: 17px;
-}
-
 h2 {
-    color: #c45a5a;
-    margin-top: 40px;
-    font-size: 24px;
+  color: #a66cb0;
+  font-style: italic;
+  text-align: center;
+  margin-top: 2em;
 }
-
-img {
-    max-width: 100%;
-    border-radius: 10px;
-    margin: 20px 0;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+p, li {
+  font-size: 1.1em;
+  line-height: 1.6;
 }
-
+.dedicatoria {
+  font-style: italic;
+  text-align: center;
+  color: #6a4e77;
+  padding: 1.5em;
+  background-color: #f3e7dc;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+.foto-perfil {
+  display: block;
+  margin: 20px auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  border: 6px solid #e0c3fc;
+  box-shadow: 0 0 20px rgba(166, 108, 176, 0.5);
+  object-fit: cover;
+  transition: transform 1s ease, box-shadow 1s ease;
+}
+.foto-perfil:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 30px rgba(166, 108, 176, 0.7);
+}
+section {
+  padding: 1em 2em;
+  opacity: 0;
+  animation: aparecer 2s ease forwards;
+}
+@keyframes aparecer {
+  to {
+    opacity: 1;
+  }
+}
+ul {
+  margin-left: 1.5em;
+}
+.separador {
+  text-align: center;
+  font-size: 1.5em;
+  color: #d1a7ff;
+  margin: 2em 0;
+}
 footer {
-    background-color: #f6b6aa;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    font-size: 14px;
-    margin-top: 40px;
+  text-align: center;
+  background-color: #e8dcf2;
+  color: #5f436b;
+  padding: 1em;
+  font-style: italic;
+  border-top: 2px solid #cfa2f2;
 }
