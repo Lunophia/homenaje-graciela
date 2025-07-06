@@ -67,16 +67,16 @@
     <img src="su_motivacion/FB_IMG_1751753025856.jpg" alt="">
     <img src="su_motivacion/FB_IMG_1751753047139.jpg" alt="">
     <img src="su_motivacion/FB_IMG_1751753053087.jpg" alt="">
-  </div>
+<!-- Modal de imagen -->
+<div id="modal" class="modal" onclick="cerrarModal()">
+  <img id="modal-img" src="" alt="Imagen ampliada">
+</div>
 </section>
-      
-    </div>
-  </section>
 
   <div class="separador">🌸✨🌸</div>
 
   <footer>
-    Creado con amor por Sophie 👩‍❤️‍👩🕊️🌸 En homenaje a Graciela Alejandra Martinez. Siempre en luz.
+    Creado con amor por Sophie 👩‍❤️‍👩🕊️🌸 Tu hija más chica. Siempre en la luz.
   </footer>
 </body>
 </html>
