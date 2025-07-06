@@ -78,5 +78,31 @@
   <footer>
     Creado con amor por Sophie 👩‍❤️‍👩🕊️🌸 Tu hija más chica. Siempre en la luz.
   </footer>
+<script>
+  const modal = document.getElementById("modal");
+  const modalImg = document.getElementById("modal-img");
+  const imagenes = document.querySelectorAll(".galeria img");
+
+  imagenes.forEach(img => {
+    img.addEventListener("click", () => {
+      modalImg.src = img.src;
+      modal.classList.add("show");
+      modal.style.display = "flex";
+
+      // Reinicia la transición
+      modalImg.style.transition = "none";
+      void modalImg.offsetWidth; // Trucazo para reiniciar animación
+      modalImg.style.transition = "all 7s ease";
+    });
+  });
+
+  function cerrarModal() {
+    modal.classList.remove("show");
+    setTimeout(() => {
+      modal.style.display = "none";
+      modalImg.src = "";
+    }, 7000); // Espera 7s para cerrar después de la transición
+  }
+</script>
 </body>
 </html>
