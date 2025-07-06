@@ -45,81 +45,31 @@
 
   <div class="separador">🌸✨🌸</div>
 
-  <h2>📸 Su motivación 📸</h2>
-  <section class="galeria">
-    <div class="grid">
-      <!-- Galería de imágenes -->
-      <!-- Sección generada automáticamente -->
-      <!-- Imágenes -->
-      <!-- Todas desde la carpeta su_motivacion -->
-      <!-- Si no cargan, revisar nombres o extensión -->
-      <!-- Puedes añadir más fácilmente copiando una línea y cambiando el nombre -->
-
-      <!-- INICIO IMÁGENES -->
-      <!-- Solo se listan, estilo va en style.css -->
-      <!-- Ajusta el tamaño visual con CSS -->
-
-      <!-- Lista de imágenes -->
-      <img src="su_motivacion/FB_IMG_1751752819746" alt="">
-      <img src="su_motivacion/FB_IMG_1751752830755" alt="">
-      <img src="su_motivacion/FB_IMG_1751752840471" alt="">
-      <img src="su_motivacion/FB_IMG_1751752846840" alt="">
-      <img src="su_motivacion/FB_IMG_1751752853873" alt="">
-      <img src="su_motivacion/FB_IMG_1751752864872" alt="">
-      <img src="su_motivacion/FB_IMG_1751752877323" alt="">
-      <img src="su_motivacion/FB_IMG_1751752883907" alt="">
-      <img src="su_motivacion/FB_IMG_1751752901606" alt="">
-      <img src="su_motivacion/FB_IMG_1751752915306" alt="">
-      <img src="su_motivacion/FB_IMG_1751752927176" alt="">
-      <img src="su_motivacion/FB_IMG_1751752945381" alt="">
-      <img src="su_motivacion/FB_IMG_1751752957857" alt="">
-      <img src="su_motivacion/FB_IMG_1751752986848" alt="">
-      <img src="su_motivacion/FB_IMG_1751752993922" alt="">
-      <img src="su_motivacion/FB_IMG_1751753015672" alt="">
-      <img src="su_motivacion/FB_IMG_1751753025856" alt="">
-      <img src="su_motivacion/FB_IMG_1751753047139" alt="">
-      <img src="su_motivacion/FB_IMG_1751753053087" alt="">
-      <img src="su_motivacion/FB_IMG_1751753078160" alt="">
-      <img src="su_motivacion/FB_IMG_1751753089325" alt="">
-      <img src="su_motivacion/FB_IMG_1751753103862" alt="">
-      <img src="su_motivacion/FB_IMG_1751753129538" alt="">
-      <img src="su_motivacion/FB_IMG_1751753157401" alt="">
-      <img src="su_motivacion/FB_IMG_1751753189388" alt="">
-      <img src="su_motivacion/FB_IMG_1751753209918" alt="">
-      <img src="su_motivacion/FB_IMG_1751753214536" alt="">
-      <img src="su_motivacion/FB_IMG_1751753228569" alt="">
-      <img src="su_motivacion/FB_IMG_1751753235592" alt="">
-      <img src="su_motivacion/FB_IMG_1751753244354" alt="">
-      <img src="su_motivacion/FB_IMG_1751753268057" alt="">
-      <img src="su_motivacion/FB_IMG_1751753315025" alt="">
-      <img src="su_motivacion/FB_IMG_1751753321793" alt="">
-      <img src="su_motivacion/FB_IMG_1751753335840" alt="">
-      <img src="su_motivacion/FB_IMG_1751753401064" alt="">
-      <img src="su_motivacion/FB_IMG_1751753411324" alt="">
-      <img src="su_motivacion/FB_IMG_1751753427766" alt="">
-      <img src="su_motivacion/FB_IMG_1751753459201" alt="">
-      <img src="su_motivacion/FB_IMG_1751753543488" alt="">
-      <img src="su_motivacion/FB_IMG_1751753569542" alt="">
-      <img src="su_motivacion/FB_IMG_1751753672060" alt="">
-      <img src="su_motivacion/FB_IMG_1751753696305" alt="">
-      <img src="su_motivacion/FB_IMG_1751753703156" alt="">
-      <img src="su_motivacion/FB_IMG_1751753710122" alt="">
-      <img src="su_motivacion/FB_IMG_1751753730673" alt="">
-      <img src="su_motivacion/FB_IMG_1751753743338" alt="">
-      <img src="su_motivacion/FB_IMG_1751753748956" alt="">
-      <img src="su_motivacion/FB_IMG_1751753753541~2" alt="">
-      <img src="su_motivacion/FB_IMG_1751753757821" alt="">
-      <img src="su_motivacion/FB_IMG_1751753782638~2" alt="">
-      <img src="su_motivacion/FB_IMG_1751753790254" alt="">
-      <img src="su_motivacion/FB_IMG_1751753811038~2" alt="">
-      <img src="su_motivacion/FB_IMG_1751753816388" alt="">
-      <img src="su_motivacion/FB_IMG_1751753866738" alt="">
-      <img src="su_motivacion/FB_IMG_1751753880390" alt="">
-      <img src="su_motivacion/FB_IMG_1751753922005" alt="">
-      <img src="su_motivacion/FB_IMG_1751753931889" alt="">
-      <img src="su_motivacion/FB_IMG_1751753939655" alt="">
-      <img src="su_motivacion/FB_IMG_1751753943788" alt="">
-      <img src="su_motivacion/FB_IMG_1751754461175" alt="">
+  <h2>💖 Su Motivación 💖</h2>
+<section class="galeria">
+  <div class="grid">
+    <img src="su_motivacion/FB_IMG_1751752819746.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751752830755.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751752840471.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751752846840.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751752853873.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751752864872.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751752877323.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751752883907.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751752901606.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751752915306.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751752927176.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751752945381.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751752957857.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751752986848.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751752993922.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751753015672.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751753025856.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751753047139.jpg" alt="">
+    <img src="su_motivacion/FB_IMG_1751753053087.jpg" alt="">
+  </div>
+</section>
+      
     </div>
   </section>
 
